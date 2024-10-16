@@ -1,0 +1,3 @@
+{
+    "ConnectionString": "Driver={ODBC Driver 18 for SQL Server};Server=tcp:methargdb.database.windows.net,1433;Initial Catalog=methargdb-main;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"
+}
